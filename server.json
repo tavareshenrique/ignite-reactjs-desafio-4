@@ -2,9 +2,9 @@
   "foods": [
     {
       "id": 1,
-      "name": "Ao molho Verde",
+      "name": "Ao molho Verde Grande",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas do himalaia",
-      "price": "19.99",
+      "price": "25.40",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
